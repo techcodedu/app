@@ -26,7 +26,7 @@ The web app is hosted at https://techcodedu.github.io/demo/filter.html and showc
    #### @Test:
      1. Locate the dropdown or list of dog breeds on the web page.
      2. Select a specific dog breed from the list.
-     3. Wait for the 4 images of the selected breed to load.
+     3. Wait for the 4 categories of the selected breed to load.
      4. Assert that 4 images are indeed displayed for the selected breed.
 
 ### 4. Test Cleanup:
